@@ -1,0 +1,102 @@
+body {
+    background-color: gold;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: grey;
+    font-size: 5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 1.5rem;
+    display: 
+}
+
+h2 {
+    color: grey;
+    font-size: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 3.1rem;
+    margin-bottom: 1.5rem;
+    display: 
+}
+
+h3 {
+    color: green;
+    font-size: 2.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 2.6rem;
+    display: 
+}
+
+h4 {
+    color: red;
+    font-size: 2.5rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 2.6rem;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    display: 
+}
+
+#icon1 {
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+}
+#icon2 {
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+}
+#icon3 {
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#container1 {
+    display: flex;
+    justify-content: center;
+}
+
+#container2{
+    display: flex;
+    justify-content: center;
+    height: 2.5rem;
+}
+
+#container3{
+    display: flex;
+    justify-content: center;
+    height: 2.5rem;
+}
+
+#container4{
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    border-radius: 50%;
+}
+
+#refresh {
+    visibility: hidden;
+    border-radius: 10px;
+    width: 25%;
+    position: relative;
+    left: 37%;
+    background-color: black;
+    color: white;
+}
+
+
